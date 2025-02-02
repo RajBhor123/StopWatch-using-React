@@ -6,7 +6,6 @@ A simple and elegant **Stopwatch** built using **React.js**. This stopwatch allo
 ## 🌟 Live Demo
 🔗 [Click here to use the Stopwatch](https://rajbhor123.github.io/StopWatch-using-React/)
 
-![Stopwatch Preview](public/Stopwatch.png)
 
 ## 🛠️ Features
 ⏯️ Start, Pause, Resume, and Stop functionality.  
